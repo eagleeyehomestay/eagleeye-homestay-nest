@@ -20,7 +20,7 @@ export const Contact = () => {
             Get in Touch
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Ready to book your stay or have questions? We're here to help make your experience unforgettable.
+            Ready to book your stay or have questions? We're here to help make your Kashmir experience unforgettable.
           </p>
         </div>
 
@@ -69,7 +69,7 @@ export const Contact = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-semibold text-gray-900">Location</h4>
-                  <p className="text-gray-600">Premium location with easy access</p>
+                  <p className="text-gray-600">Kashmir Valley, India</p>
                   <p className="text-sm text-gray-500">Exact address shared upon booking confirmation</p>
                 </div>
               </div>

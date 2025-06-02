@@ -21,6 +21,9 @@ export const Navigation = () => {
               <a href="#about" className="text-gray-700 hover:text-blue-800 px-3 py-2 text-sm font-medium transition-colors">
                 About
               </a>
+              <a href="#gallery" className="text-gray-700 hover:text-blue-800 px-3 py-2 text-sm font-medium transition-colors">
+                Gallery
+              </a>
               <a href="#contact" className="text-gray-700 hover:text-blue-800 px-3 py-2 text-sm font-medium transition-colors">
                 Contact
               </a>
@@ -45,6 +48,9 @@ export const Navigation = () => {
               </a>
               <a href="#about" className="text-gray-700 hover:text-blue-800 block px-3 py-2 text-base font-medium">
                 About
+              </a>
+              <a href="#gallery" className="text-gray-700 hover:text-blue-800 block px-3 py-2 text-base font-medium">
+                Gallery
               </a>
               <a href="#contact" className="text-gray-700 hover:text-blue-800 block px-3 py-2 text-base font-medium">
                 Contact
