@@ -81,8 +81,8 @@ export const About = () => {
             </div>
             <div className="relative">
               <img 
-                src="https://images.unsplash.com/photo-1649972904349-6e44c42644a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=1470&q=80"
-                alt="Comfortable homestay room"
+                src="/lovable-uploads/af684843-a208-4f32-8d9f-b809fc025e9b.png"
+                alt="Beautiful EagleEyeHomestay exterior with traditional Kashmiri architecture"
                 className="rounded-xl shadow-lg w-full h-80 object-cover"
               />
             </div>

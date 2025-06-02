@@ -55,6 +55,26 @@ export const Gallery = () => {
       src: "/lovable-uploads/a6443dea-9819-4fb5-8691-601befeeee78.png",
       alt: "Beautiful exterior view of EagleEyeHomestay with lush green surroundings in Kashmir",
       title: "Homestay Exterior - Kashmir Valley"
+    },
+    {
+      src: "/lovable-uploads/2b499e0c-4a85-4ccb-8c60-29fa77386340.png",
+      alt: "Scenic Kashmir meadows with traditional shepherd huts and local children playing cricket",
+      title: "Kashmir Valley - Local Life"
+    },
+    {
+      src: "/lovable-uploads/af684843-a208-4f32-8d9f-b809fc025e9b.png",
+      alt: "Beautiful EagleEyeHomestay exterior with green tin roof and traditional Kashmiri architecture",
+      title: "Homestay Exterior - Front View"
+    },
+    {
+      src: "/lovable-uploads/662a5926-6692-4a61-aee3-eadbca2df3c9.png",
+      alt: "Traditional Kashmiri village setting with pastoral landscapes and mountain backdrop",
+      title: "Village Setting - Mountain Views"
+    },
+    {
+      src: "/lovable-uploads/ba9f8d3c-d919-43bc-9476-eeb27c1818bb.png",
+      alt: "Local children enjoying cricket in the beautiful Kashmir meadows near traditional homes",
+      title: "Local Community - Cricket in the Meadows"
     }
   ];
 
